@@ -338,6 +338,11 @@ const en: LocaleType = {
         },
       },
     },
+    AccessCode: {
+      Title: "访问码",
+      SubTitle: "先输入访问码后使用",
+      Placeholder: "请输入访问密码",
+    },
 
     Model: "Model",
     Temperature: {
