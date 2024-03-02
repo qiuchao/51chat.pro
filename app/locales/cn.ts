@@ -335,6 +335,7 @@ const cn = {
         Title: "自定义模型名",
         SubTitle: "增加自定义模型可选项，使用英文逗号隔开",
       },
+    },
     AccessCode: {
       Title: "访问码",
       SubTitle: "先输入访问码后使用",
@@ -473,7 +474,7 @@ const cn = {
     Topic: "主题",
     Time: "时间",
   },
-},
+};
 
 type DeepPartial<T> = T extends object
   ? {
