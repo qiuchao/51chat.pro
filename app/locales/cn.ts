@@ -473,7 +473,7 @@ const cn = {
     Topic: "主题",
     Time: "时间",
   },
-};
+},
 
 type DeepPartial<T> = T extends object
   ? {
